@@ -1,4 +1,4 @@
-### Bella ✨
+### bem vindo ao perfil da Bella ✨
 
 <!--
 **Bella1504/Bella1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/user-attachments/assets/8962d7e9-49ef-47bc-8d77-54695cc10eb3)
